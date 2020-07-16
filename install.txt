@@ -1,0 +1,10 @@
+ * @name        Football 24 News
+ * @author      pasich
+ * @link        https://t.me/andriipasichnik
+
+Установка:
+ 1. Залить данный скрипт на ваш хостинг.
+ 2. Отредактировать в class/core.class.php свойства
+
+Данный скрипт запрещено продавать другим лицам!
+ 

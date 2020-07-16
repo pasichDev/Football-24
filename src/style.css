@@ -1,0 +1,20 @@
+.body{
+  padding: 20px;
+  background: #EBEBEB;
+}
+
+.control{
+  padding: 15px;
+   background: #EBEBEB;
+}
+
+.table {
+	text-align: center;
+}
+
+.card-content a{
+	color: #101010;
+}
+.card-content a:hover{
+	color: #48c774;
+}
