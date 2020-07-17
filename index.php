@@ -59,6 +59,7 @@ echo '<!DOCTYPE html><html><head>
 <a class="navbar-link"> <b>Новости</b> </a>
 <div class="navbar-dropdown">
 <a href="?country=ukraine" class="navbar-item"> Украина</a>
+<a href="?country=russia" class="navbar-item"> Россия</a>
 <a href="?country=germany" class="navbar-item"> Германия</a>
 <a href="?country=england" class="navbar-item"> Англия</a>
 <a href="?country=spain" class="navbar-item"> Испания</a>
