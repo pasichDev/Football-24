@@ -39,7 +39,7 @@ public static function conectionIN ($mod='',$html){ //заменим обреж�
 
 public static function checkCountry($var){ //проверим выбраную страну на существование
 if(empty($var)){ $var = self::$defaultCountry;}
-$array = array('ukraine',  'germany', 'england',  'spain',  'italy',  'turkey', 'netherlands', 'portugal');
+$array = array('russia','ukraine',  'germany', 'england',  'spain',  'italy',  'turkey', 'netherlands', 'portugal');
 if ($var && ($key = array_search($var, $array)) !== false ) { $var = $var;} else { $var = self::$defaultCountry;}
    return $var; } 
 
@@ -48,6 +48,7 @@ public static function rus_name($x){
 $country = [
     "ukraine" => "Украина",
     "germany" => "Германия",
+    "russia" => "Россия",
     "england" => "Англия",
     "spain" => "Испания",
     "italy" => "Италия",
